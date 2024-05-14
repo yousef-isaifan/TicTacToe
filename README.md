@@ -25,3 +25,9 @@ This project is a Tic Tac Toe game implemented in Java using the MiniMax algorit
 - `RandomGameSceneController.java`: Controls the game logic for the random move generator scenario.
 - `TwoGameSceneController.java`: Manages the game logic for two human players.
 - `TwoPlayersSceneController.java`: Manages the scene for two-player settings.
+
+## Screenshots
+
+![Screenshot 2024-05-14 142958](https://github.com/yousef-isaifan/TicTacToe/assets/123752513/752ca88a-881d-4c7b-a55a-011dd08d47f2)
+
+
