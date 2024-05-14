@@ -28,13 +28,13 @@ This project is a Tic Tac Toe game implemented in Java using the MiniMax algorit
 
 ## Screenshots
 
-- `Main Menu:`
+- **Main Menu:**
 ![Screenshot 2024-05-14 142958](https://github.com/yousef-isaifan/TicTacToe/assets/123752513/752ca88a-881d-4c7b-a55a-011dd08d47f2)
 
-- `Options Page:`
+- **Options Page:**
 ![Screenshot 2024-05-14 143015](https://github.com/yousef-isaifan/TicTacToe/assets/123752513/64130a15-05a8-4c85-add5-56083d29d493)
 
-- `Game Page:`
+- **Game Page:**
 ![Screenshot 2024-05-14 143025](https://github.com/yousef-isaifan/TicTacToe/assets/123752513/c2a11f64-af91-4d6e-ae46-383c8721a206)
 
 
